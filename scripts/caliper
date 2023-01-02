@@ -1,9 +1,3 @@
-#!/bin/sh
-
-# rough
-
-export PATH=$PATH:$JAVA_HOME/bin
-base=`dirname $0`
-export ALLOCATION_JAR=$base/lib/allocation.jar
-exec java -cp $base/lib/caliper-@VERSION@.jar:$ALLOCATION_JAR:$CLASSPATH com.google.caliper.Runner $*
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d114913d227f2550267701997e9c2104cc93f54ffdce80502b012ca29c4cae5
+size 221

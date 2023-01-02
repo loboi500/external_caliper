@@ -1,8 +1,3 @@
-To build this project with Maven:
-
-1. cd caliper
-mvn eclipse:configure-workspace eclipse:eclipse install
-
-2. To build examples
-cd examples
-mvn eclipse:configure-workspace eclipse:eclipse install
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f8d5225c59727e864e36a0d5712b4b573a87725e92a403176ccc8850926fbd
+size 195
